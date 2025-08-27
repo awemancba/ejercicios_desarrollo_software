@@ -1,4 +1,4 @@
-package Programacion2;
+package Programacion2.clase1;
 
 public class Ejercicio1_3 {
     public static void main(String[] args) {
